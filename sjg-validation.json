@@ -1,1 +1,8 @@
-
+{
+"name":"toshin#6469",
+"ticker":"ISP",
+"discordId":"485094097594482698",
+"pool-list":"false",
+"poolMetaData":"https://github.com/FKMLTD/META/blob/master/poolMetaData.json",
+"validation":"https://github.com/FKMLTD/META/blob/master/sjg-validation.json"
+}
