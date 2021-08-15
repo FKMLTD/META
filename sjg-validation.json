@@ -3,6 +3,6 @@
 "ticker":"ISP",
 "discordId":"485094097594482698",
 "pool-list":"false",
-"poolMetaData":"https://github.com/FKMLTD/META/blob/master/poolMetaData.json",
-"validation":"https://github.com/FKMLTD/META/blob/master/sjg-validation.json"
+"poolMetaData":"https://raw.githubusercontent.com/FKMLTD/META/master/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/FKMLTD/META/master/sjg-validation.json"
 }
